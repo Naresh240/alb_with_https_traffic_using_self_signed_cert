@@ -1,6 +1,9 @@
 # spring-boot-hello
 ## Pre-requisites:
-  - Run springboot application in server
+  - Build and Run springboot application in server
+ 
+## Build and Run Application
+[Build and Run](https://github.com/Naresh240/alb_with_https_traffic_using_self_signed_cert/blob/master/springboot_with_80/README.md)
   
 ## Create ALB under aws with two target group one with 80
 
